@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "nome": "emprego de baba",
+        "profissonalizante": 1,
+        "geral": 0
+        
+    },
+    {
+        "id": "2",
+        "nome": "emprego de confeitaria",
+        "profissonalizante": 1,
+        "geral": 0
+    },
+    {
+        "id": "3",
+        "nome": "emprego de croche",
+        "profissonalizante": 0,
+        "geral": 1
+    },
+    {
+        "id": "4",
+        "nome": "emprego de manicuri",
+        "profissonalizante": 1,
+        "geral": 0
+    },
+    {
+        "id": "5",
+        "nome": "emprego de modelagem 3D",
+        "profissonalizante": 0,
+        "geral": 1
+    }
+]
